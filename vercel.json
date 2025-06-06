@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/**/*.py": {
+    "api/**/*.py@1.0.0": {
       "runtime": "python3.12",
       "maxDuration": 30,
       "memory": 1024
